@@ -1,0 +1,28 @@
+name: Feather In The Wind
+favicon: null
+layout_spectrum: 0.8516370544675738
+typography_spectrum: 0.8111376948654652
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.955796763766557
+  lightness: 0.47346017020754516
+  saturation: 0.6129950270988047
+  rhythmicContrast: 0.322638425976038
+purpose: []
